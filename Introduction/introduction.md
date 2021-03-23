@@ -16,7 +16,7 @@
 2. Deque - Double ended queue
 3. List - Linear List
 
-## also known as **Sequence Containers**
+also known as **Sequence Containers**
 
 # Types of Iterators
 
